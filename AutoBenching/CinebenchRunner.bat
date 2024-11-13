@@ -1,0 +1,1 @@
+start /b /wait "parentconsole" cinebench/Cinebench.exe g_CinebenchCpuXTest=true
