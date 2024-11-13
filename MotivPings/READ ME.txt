@@ -1,0 +1,20 @@
+# Author - Zen Futral
+# Created for use at PCLaptops
+
+# This script automates the daily corporate mandated 'motivational ping'.
+
+
+
+=====SETUP INSTRUCTIONS=====
+Extract 'myPhotos.zip' to a newly created folder 'myPhotos'
+
+Fix Directories:
+- ping.py: myImgHist, myPhotoLib
+- Scheduler: AutoExec.bat
+- AutoExec: ping.py
+- Setup: Scheduler.bat
+
+Fix Scheduled Task: 
+-Remove On Logon Trigger
+-Add On Unlock Trigger
+-"Run with highest privileges"
