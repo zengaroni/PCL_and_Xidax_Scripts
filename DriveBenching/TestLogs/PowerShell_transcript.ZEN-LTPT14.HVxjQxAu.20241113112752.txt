@@ -1,0 +1,19 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20241113112752
+Username: ZEN-LTPT14\Zen
+RunAs User: ZEN-LTPT14\Zen
+Configuration Name: 
+Machine: ZEN-LTPT14 (Microsoft Windows NT 10.0.22631.0)
+Host Application: powershell.exe -file DriveBench.ps1
+Process ID: 71896
+PSVersion: 5.1.22621.4249
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.4249
+BuildVersion: 10.0.22621.4249
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\Zen\Desktop\Code\Auto Benching\TestLogs\PowerShell_transcript.ZEN-LTPT14.HVxjQxAu.20241113112752.txt
